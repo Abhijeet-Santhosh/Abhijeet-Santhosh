@@ -3,10 +3,6 @@
 **Welcome to my GitHub profile! I am a former mechanical engineer turned Data Storyteller. Passionate about bridging business goals and data insights using SQL, python and powerful visualizations**.  
 Here’s a little about me 👇  
 
----
-
-## 🧑‍💻 About Me  
-
 - 🔭 **Currently working on:** Developing data-driven insights and predictive models for business decision-making.   
 - 🎓 **Education:** MSc in Business Analytics at the University of Exeter,UK.  
 - 🏆 **Cources & Certifications:** Python certification from ExCode. Advanced Python and R from [DataCamp](https://www.datacamp.com/).
