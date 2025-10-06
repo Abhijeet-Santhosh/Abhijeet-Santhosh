@@ -26,14 +26,14 @@ Here’s a little about me 👇
 
 ## 🧩 Featured Projects  
 
-### 🏗️ Regional Cost Estimation Model of Real Estate Projects Using Random Forest 
+### 1. Regional Cost Estimation Model of Real Estate Projects Using Random Forest 
 A machine learning model built using **Random Forest Regression** to predict construction costs for **RERA-registered projects** in Gujarat, India.  
 - Explains **95% of the variance in project costs** with excellent RMSE and MAE scores.  
 - Identifies major cost drivers such as promoter profile, carpet area, and land cost.  
 - Tools used: Python, Pandas, Scikit-learn, SHAP, Seaborn, Matplotlib.  
 📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/Predicting-Construction-Project-Costs-Using-Machine-Learning/blob/main/README.md)*  
 
-### 👟 Global Sneaker & Streetwear Sales Dashboard (StreetTrendz)  
+### 2. Global Sneaker & Streetwear Sales Dashboard (StreetTrendz)  
 An interactive **Power BI dashboard** analyzing global sneaker and streetwear sales for *StreetTrendz*, a fictional e-commerce brand.  
 - Visualizes sales across **brands, countries, price bands, and customer segments** using Kaggle’s retail dataset.  
 - Highlights **Nike’s global leadership**, mid-year sales peaks, and dominant **$100–$199 price range** across markets.  
