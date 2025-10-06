@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijeet!  
 
-Welcome to my GitHub profile! I am a former mechanical engineer turned Data Storyteller. Passionate about bridging business goals and data insights using SQL, python and powerful visualizations**.  
+**Welcome to my GitHub profile! I am a former mechanical engineer turned Data Storyteller. Passionate about bridging business goals and data insights using SQL, python and powerful visualizations**.  
 Here’s a little about me 👇  
 
 ---
