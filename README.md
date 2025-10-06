@@ -8,7 +8,7 @@ Here’s a little about me 👇
 ## 🧑‍💻 About Me  
 
 - 🔭 **Currently working on:** Developing data-driven insights and predictive models for business decision-making.   
-- 🎓 **Education:** MSc in Business Analytics at the University of Exeter.  
+- 🎓 **Education:** MSc in Business Analytics at the University of Exeter,UK.  
 - 🏆 **Cources & Certifications:** Python certification from ExCode. Advanced Python and R from [DataCamp](https://www.datacamp.com/).
 - 💡 **Interests:** Exploring how data and technology drive business strategy and operational efficiency.  
 
@@ -26,12 +26,12 @@ Here’s a little about me 👇
 
 ## 🧩 Featured Projects  
 
-### 🏗️ [Regional Cost Estimation Model of Real Estate Projects Using Random Forest](https://github.com/Abhijeet-Santhosh/construction-cost-ml-prediction)  
+### 🏗️ Regional Cost Estimation Model of Real Estate Projects Using Random Forest 
 A machine learning model built using **Random Forest Regression** to predict construction costs for **RERA-registered projects** in Gujarat, India.  
 - Explains **95% of the variance in project costs** with excellent RMSE and MAE scores.  
 - Identifies major cost drivers such as promoter profile, carpet area, and land cost.  
 - Tools used: Python, Pandas, Scikit-learn, SHAP, Seaborn, Matplotlib.  
-📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/construction-cost-ml-prediction)*  
+📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/Predicting-Construction-Project-Costs-Using-Machine-Learning/blob/main/README.md)*  
 
 ### 📊 [Marketing Analytics Dashboard (Intel Smartwatch Market Entry)](https://github.com/Abhijeet-Santhosh/marketing-analytics-intel)  
 Segmentation and market-entry analysis for Intel using clustering models and consumer insights.  
