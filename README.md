@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhijeet!  
 
-Welcome to my GitHub profile! I'm an aspiring **Business Analyst** currently pursuing **MSc in Business Analytics** at the **University of Exeter**.  
+Welcome to my GitHub profile! I am a former mechanical engineer turned Data Storyteller. Passionate about bridging business goals and data insights using SQL, python and powerful visualizations**.  
 Here’s a little about me 👇  
 
 ---
