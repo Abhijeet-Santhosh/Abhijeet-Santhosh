@@ -33,18 +33,12 @@ A machine learning model built using **Random Forest Regression** to predict con
 - Tools used: Python, Pandas, Scikit-learn, SHAP, Seaborn, Matplotlib.  
 📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/Predicting-Construction-Project-Costs-Using-Machine-Learning/blob/main/README.md)*  
 
-### 📊 [Marketing Analytics Dashboard (Intel Smartwatch Market Entry)](https://github.com/Abhijeet-Santhosh/marketing-analytics-intel)  
-Segmentation and market-entry analysis for Intel using clustering models and consumer insights.  
-- Identified four customer personas using **K-means clustering**.  
-- Recommended potential partnerships for product launch strategy.  
-- Tools used: Python, Tableau, Scikit-learn.  
-📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/marketing-analytics-intel)*  
-
-### 🧮 [Capital Project Schedules and Budgets – Predicting Budget Overruns](https://github.com/Abhijeet-Santhosh/nyc-project-budget-analysis)  
-Predictive analysis using **NYC Open Data** to forecast project budget overruns.  
-- Applied **Random Forest** and **Regression techniques** for prediction.  
-- Developed visual insights into cost patterns and timelines.  
-📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/nyc-project-budget-analysis)*  
+### 👟 Global Sneaker & Streetwear Sales Dashboard (StreetTrendz)  
+An interactive **Power BI dashboard** analyzing global sneaker and streetwear sales for *StreetTrendz*, a fictional e-commerce brand.  
+- Visualizes sales across **brands, countries, price bands, and customer segments** using Kaggle’s retail dataset.  
+- Highlights **Nike’s global leadership**, mid-year sales peaks, and dominant **$100–$199 price range** across markets.  
+- Tools used: **Power BI**, **DAX**, **Power Query**, **Data Modeling**, **Data Visualization**.  
+📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/StreetTrendz-Sales-Dashboard--PowerBI-/blob/main/README.md)*  
 
 ---
 
