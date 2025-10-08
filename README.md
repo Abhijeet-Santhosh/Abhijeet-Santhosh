@@ -42,7 +42,7 @@ An interactive **Power BI dashboard** analyzing pizza sales performance for *Piz
 - Visualizes **daily/monthly order trends**, **category & size contributions**, and **top/bottom-selling pizzas**.  
 - Reveals insights such as **Classic pizzas driving the highest sales** and **peak demand on weekends**.  
 - Tools used: **Power BI**, **SQL Server**, **SSMS**, **Data Modeling**, **ETL**, **Data Visualization**.  
-📘 *[View Project Repository →]((https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/README.md)*  
+📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/README.md)*  
 
 
 ---
