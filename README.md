@@ -34,7 +34,16 @@ An interactive **Power BI dashboard** analyzing global sneaker and streetwear sa
 - Visualizes sales across **brands, countries, price bands, and customer segments** using Kaggle’s retail dataset.  
 - Highlights **Nike’s global leadership**, mid-year sales peaks, and dominant **$100–$199 price range** across markets.  
 - Tools used: **Power BI**, **DAX**, **Power Query**, **Data Modeling**, **Data Visualization**.  
-📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/StreetTrendz-Sales-Dashboard--PowerBI-/blob/main/README.md)*  
+📘 *[View Project Repository →](https://github.com/Abhijeet-Santhosh/StreetTrendz-Sales-Dashboard--PowerBI-/blob/main/README.md)*
+
+### 3. Pizza House Sales Dashboard (SQL + Power BI)  
+An interactive **Power BI dashboard** analyzing pizza sales performance for *Pizza House*, a fictional cloud kitchen based in Dubai.  
+- Built using **SQL Server** as the backend to calculate KPIs like **revenue, orders, and average order value**.  
+- Visualizes **daily/monthly order trends**, **category & size contributions**, and **top/bottom-selling pizzas**.  
+- Reveals insights such as **Classic pizzas driving the highest sales** and **peak demand on weekends**.  
+- Tools used: **Power BI**, **SQL Server**, **SSMS**, **Data Modeling**, **ETL**, **Data Visualization**.  
+📘 *[View Project Repository →]((https://github.com/Abhijeet-Santhosh/Pizza-House-Sales-Report-/blob/main/README.md)*  
+
 
 ---
 
